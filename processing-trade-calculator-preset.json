@@ -1,0 +1,246 @@
+[
+    {
+        "processedItem": {
+            "name": "C/ハルフィニリア",
+            "price": 0,
+            "type": "sell",
+            "count": 1
+        },
+        "unprocessedItemsList": [
+            {
+                "name": "C/エイジス･ソールⅣ",
+                "price": 0,
+                "type": "buy",
+                "count": 30
+            },
+            {
+                "name": "C/エアル･ドミナ",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/リテナ･ドミナ",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/クヴァル･ドミナ",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/スティラ･ドミナ",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "processedItem": {
+            "name": "C/ギガス・マエスティ",
+            "price": 0,
+            "type": "sell",
+            "count": 1
+        },
+        "unprocessedItemsList": [
+            {
+                "name": "C/フォミド・フュージア",
+                "price": 0,
+                "type": "prepare",
+                "count": 10
+            },
+            {
+                "name": "C/ギガス・パワーⅣ",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/ギガス・シュートⅣ",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/ギガス・シュートⅣ",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "processedItem": {
+            "name": "C/トリアブルⅡ",
+            "price": 0,
+            "type": "sell",
+            "count": 1
+        },
+        "unprocessedItemsList": [
+            {
+                "name": "C/フォミド・フュージア",
+                "price": 0,
+                "type": "prepare",
+                "count": 1
+            },
+            {
+                "name": "C/ダシャ・ディアブルⅣ",
+                "price": 0,
+                "type": "sell",
+                "count": 5
+            },
+            {
+                "name": "C/ダホウ・ディアブルⅣ",
+                "price": 0,
+                "type": "sell",
+                "count": 5
+            },
+            {
+                "name": "C/シャホウ・ディアブルⅣ",
+                "price": 0,
+                "type": "sell",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "processedItem": {
+            "name": "C/スタム・トリアブル",
+            "price": 0,
+            "type": "sell",
+            "count": 1
+        },
+        "unprocessedItemsList": [
+            {
+                "name": "C/フォミド・フュージア",
+                "price": 0,
+                "type": "prepare",
+                "count": 3
+            },
+            {
+                "name": "C/スタム・パワー",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/スタム・シュート",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/スタム・テクニック",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "processedItem": {
+            "name": "C/スピレ・トリアブル",
+            "price": 0,
+            "type": "sell",
+            "count": 1
+        },
+        "unprocessedItemsList": [
+            {
+                "name": "C/フォミド・フュージア",
+                "price": 0,
+                "type": "prepare",
+                "count": 3
+            },
+            {
+                "name": "C/スピレ・パワー",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/スピレ・シュート",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/スピレ・テクニック",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "processedItem": {
+            "name": "C/アルム・トリアブル",
+            "price": 0,
+            "type": "sell",
+            "count": 1
+        },
+        "unprocessedItemsList": [
+            {
+                "name": "C/フォミド・フュージア",
+                "price": 0,
+                "type": "prepare",
+                "count": 3
+            },
+            {
+                "name": "C/ガーディ・パワー",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/ガーディ・シュート",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/ガーディ・テクニック",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "processedItem": {
+            "name": "C/アルム・トリアブル",
+            "price": 0,
+            "type": "sell",
+            "count": 1
+        },
+        "unprocessedItemsList": [
+            {
+                "name": "C/フォミド・フュージア",
+                "price": 0,
+                "type": "prepare",
+                "count": 3
+            },
+            {
+                "name": "C/アルム・パワー",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/アルム・シュート",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            },
+            {
+                "name": "C/アルム・テクニック",
+                "price": 0,
+                "type": "sell",
+                "count": 10
+            }
+        ]
+    }
+]
